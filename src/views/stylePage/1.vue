@@ -1,0 +1,17 @@
+<template>
+  <div>
+    <p>样式一</p>
+    <ol>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+      <li><span>1</span></li>
+    </ol>
+  </div>
+</template>
